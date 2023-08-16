@@ -1,0 +1,5 @@
+@import "hof/frontend/themes/gov-uk/styles/govuk";
+
+.phase-banner {
+  @include phase-banner(beta);
+}

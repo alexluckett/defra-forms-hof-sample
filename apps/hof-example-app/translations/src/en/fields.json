@@ -1,0 +1,22 @@
+{
+  "name": {
+    "label": "Name"
+  },
+  "age": {
+    "label": "Age"
+  },
+  "are-you-a-business": {
+    "legend": "Are you a registered business or an individual trader?",
+    "options": {
+      "yes": {
+        "label": "Yes, I am a registered business."
+      },
+      "no": {
+        "label": "No, I am an individual trader."
+      }
+    }
+  },
+  "defra-number": {
+    "label": "If you are a registered business, please provide your fictional DEFRA number"
+  }
+}

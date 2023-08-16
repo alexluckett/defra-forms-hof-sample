@@ -1,0 +1,15 @@
+public
+apps/*/translations/*
+!apps/*/translations/src
+logs
+*.log
+.DS_Store
+secrets.env
+node_modules
+.idea
+.env
+.DS_Store
+.vscode
+*.iml
+coverage
+.env
